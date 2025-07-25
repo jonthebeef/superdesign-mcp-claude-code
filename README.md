@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server that brings [Superdesign](https://github.com/superdesigndev/superdesign) - an open source AI design agent by [@jasonzhou1993](https://twitter.com/jasonzhou1993) and [@jackjack_eth](https://twitter.com/jackjack_eth) - to Claude Code as native tools. This server operates as a "design orchestrator" that provides structured specifications for your IDE's LLM to execute, enabling Superdesign's sophisticated design capabilities without requiring Anthropic API keys.
 
+<a href="https://glama.ai/mcp/servers/@jonthebeef/superdesign-mcp-claude-code">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@jonthebeef/superdesign-mcp-claude-code/badge" alt="Superdesign Server MCP server" />
+</a>
+
 ## Key Benefits
 
 - **No API Keys Required**: Works directly with Claude Code's built-in LLM connection
